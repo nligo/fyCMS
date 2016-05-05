@@ -1,0 +1,111 @@
+body{
+    font-family: "microsoft yahei"
+}
+.xx{
+    color:#f68e3a;
+    margin-right: 5px;
+}
+.width{
+    max-width: 960px;
+}
+.tip{
+    border-bottom: 1px #555 dashed;
+    max-width: 600px;
+    margin-bottom: 50px;
+    .btns{
+        max-width: 400px;
+        button{
+            padding: 10px 20px;
+            width:40%;
+            margin: 4%;
+            border: 0;
+            background: #f68e3a;
+            font-size: 20px;
+            color: #fff;
+            font-weight: bolder;
+        }
+    }
+    p{
+        color:#f68e3a;
+    }
+}
+.form{
+    label{
+        font-size: 16px;
+        font-weight: 100;
+        padding:5px;
+
+    }
+    input{
+        max-width: 260px;
+        display: inline;
+    }
+    .h{
+        max-width: 130px;
+    }
+    .sex{
+        width:130px;
+        display: inline-block;
+    }
+    #address{
+        width:83px;
+        height: 30px;
+    }
+    .imgup{
+
+    }
+    .xx{
+        color:red;
+        font-size: 20px;
+    }
+    span{
+        color:#999;
+    }
+    h4{
+        font-size: 20px;
+        color:#398ccb;
+        font-weight: bold;
+        border-bottom: 1px #ddd solid;
+        padding: 10px 0;
+        margin-bottom: 30px;
+    }
+    .reg{
+        width:260px;
+        padding:10px;
+        background:#3e99de;
+        border:none;
+        font-size: 20px;
+        color:#fff;
+    }
+    .xy{
+        color:#fe8900;
+        margin-top: 10px;
+        padding-top: 10px;
+        text-align: center;
+        padding-left: 50px;
+    }
+    .anli{
+        // display:inline;
+        // position: absolute;
+        // right:-100px;
+        // top:0;
+        max-width: 260px;
+        img{
+            display:block;
+        }
+    }
+}
+.pay{
+    max-width: 600px;
+    border-top: 1px #999 solid;
+    padding:50px 10px;
+    img{
+        display:inline;
+    }
+    a{
+        color:#333;
+    }
+    h3{
+        color:red;
+    }
+}

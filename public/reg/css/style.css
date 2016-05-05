@@ -1,0 +1,28 @@
+body { font-family: "microsoft yahei"; }
+
+.xx { color: #f68e3a; margin-right: 5px; }
+
+.width { max-width: 960px; }
+
+.tip { border-bottom: 1px #555 dashed; max-width: 600px; margin-bottom: 50px; }
+.tip .btns { max-width: 400px; }
+.tip .btns button { padding: 10px 20px; width: 40%; margin: 4%; border: 0; background: #f68e3a; font-size: 20px; color: #fff; font-weight: bolder; }
+.tip p { color: #f68e3a; }
+
+.form label { font-size: 16px; font-weight: 100; padding: 5px; }
+.form input { max-width: 260px; display: inline; }
+.form .h { max-width: 130px; }
+.form .sex { width: 130px; display: inline-block; }
+.form #address { width: 83px; height: 30px; }
+.form .xx { color: red; font-size: 20px; }
+.form span { color: #999; }
+.form h4 { font-size: 20px; color: #398ccb; font-weight: bold; border-bottom: 1px #ddd solid; padding: 10px 0; margin-bottom: 30px; }
+.form .reg { width: 260px; padding: 10px; background: #3e99de; border: none; font-size: 20px; color: #fff; }
+.form .xy { color: #fe8900; margin-top: 10px; padding-top: 10px; text-align: center; padding-left: 50px; }
+.form .anli { max-width: 260px; }
+.form .anli img { display: block; }
+
+.pay { max-width: 600px; border-top: 1px #999 solid; padding: 50px 10px; }
+.pay img { display: inline; }
+.pay a { color: #333; }
+.pay h3 { color: red; }
